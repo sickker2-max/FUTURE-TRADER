@@ -1,0 +1,144 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pip-cache/
+
+# Virtual Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python testing
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log
+npm-error.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+dist/
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+Dockerfile.dev
+
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# IDE - JetBrains (PyCharm, IntelliJ, WebStorm, etc.)
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Vim
+.vim/
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+*~
+.netrwhist
+tags
+
+# IDE - Emacs
+*~
+\#*\#
+.\#*
+
+# IDE - Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.tmTheme.cache
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+temp/
+
+# OS-specific files
+*.swp
+*.swo
+*~
+.DS_Store
